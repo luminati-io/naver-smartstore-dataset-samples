@@ -47,7 +47,6 @@ Data enrichment available as an addition to the data points extracted: <b>Based 
 <b>[Get the full Naver dataset](https://brightdata.com/products/datasets/naver)</b>.
 
 <a href="https://brightdata.com/products/datasets/naver">
-   <img src="https://github.com/luminati-io/naver-dataset-samples/blob/main/dataset-promotions.png" alt="naver datasets" />
 </a>
 
 <h2>What are the Naver datasets use cases?</h2>
